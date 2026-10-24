@@ -61,7 +61,7 @@ export default function HomePage() {
     <div className="space-y-6">
       <section className="rounded-2xl bg-gradient-to-r from-green-600 to-red-600 p-8 text-white">
         <h1 className="text-3xl font-bold">
-          Find services and events near you
+          Find services and events near you.
         </h1>
 
         <p className="mt-2 max-w-2xl text-blue-100">
